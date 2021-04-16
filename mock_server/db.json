@@ -11,6 +11,12 @@
       "author": "Andy",
       "link": "https://www.vuemastery.com/blog/getting-started-with-typescript-and-vuejs",
       "id": 2
-     }
+    },
+    {
+      "title": "VS Code for Vue Developers",
+      "author": "Andy",
+      "link": "https://www.vuemastery.com/blog/vs-code-for-vuejs-developers",
+      "id": 3
+    }
   ]
 }
